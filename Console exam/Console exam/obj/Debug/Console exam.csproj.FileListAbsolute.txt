@@ -1,0 +1,7 @@
+C:\Users\esahb\source\repos\Console exam\Console exam\bin\Debug\Console exam.exe.config
+C:\Users\esahb\source\repos\Console exam\Console exam\bin\Debug\Console exam.exe
+C:\Users\esahb\source\repos\Console exam\Console exam\bin\Debug\Console exam.pdb
+C:\Users\esahb\source\repos\Console exam\Console exam\obj\Debug\Console exam.csprojAssemblyReference.cache
+C:\Users\esahb\source\repos\Console exam\Console exam\obj\Debug\Console exam.csproj.CoreCompileInputs.cache
+C:\Users\esahb\source\repos\Console exam\Console exam\obj\Debug\Console exam.exe
+C:\Users\esahb\source\repos\Console exam\Console exam\obj\Debug\Console exam.pdb
